@@ -96,5 +96,10 @@ UV-Vis 分光光度计通常包括以下部分：
 3. **样品池（Sample Cell）**：通常是石英比色皿（适用于 200-800 nm）
 4. **检测器（Detector）**：光电二极管或光电倍增管，测量透射光强度
 
-![image-20250303234854082](C:/Users/24017/AppData/Roaming/Typora/typora-user-images/image-20250303234854082.png)
+![image-20250303234854082](https://cdn.jsdelivr.net/gh/xixiluyaoyao/Smart-COD-learning-and-creating/202503040011582.png)
 
+![image-20250304001057563](https://cdn.jsdelivr.net/gh/xixiluyaoyao/Smart-COD-learning-and-creating/202503040010664.png)
+
+![image-20250304001114461](https://cdn.jsdelivr.net/gh/xixiluyaoyao/Smart-COD-learning-and-creating/202503040011569.png)
+
+传感器的左下角即为UV-Vis 吸收光谱的仪器
