@@ -130,7 +130,7 @@ UV-Vis 分光光度计通常包括以下部分：
 
 而在叠加关系的证明那一栏中，我们发现OWSC的吸光度在 250 - 450 纳 米 的 光 谱 范 围 内呈近 似 倾 斜 的 直 线，**也就是说我们可以通过线性拟合，利用大 于 380 纳 米 波 段 的 光 学 吸 光 度 来 预 测小 于 380 纳 米 波 长 的 光 所 引 起 的 由 OWSC 引 起 的 等 效 吸 光 度（ EAS）**
 
-![image-20250304003703964](C:/Users/24017/AppData/Roaming/Typora/typora-user-images/image-20250304003703964.png)
+![image-20250304003703964](https://cdn.jsdelivr.net/gh/xixiluyaoyao/Smart-COD-learning-and-creating/202503040054285.png)
 
 如 图（b）所示，通 过 OWSC 的 综 合 作 用 获 得 了 测 量 吸 光 度 曲线 。 利 用 380 - 440 纳 米 的 吸 光 度 波 长 范 围 （ 图 (b) 中 的 粗 实 线 ）对 OWSC 的 等 效 吸 光 度 与 波 长 之 间 的 关 系 进 行 拟 合 ， 拟 合 关 系 如下：
 $$
